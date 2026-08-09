@@ -1,4 +1,0 @@
-price_strategy,retail_price_inr,gross_margin_inr,gross_margin_pct,rationale
-Founder / Pilot Batch (first 500 units),3999,1605,0.40135,Scarcity-priced to seed the 500-unit pilot batch and generate case-study owners fast; matches the low end of the survey price test.
-Standard Retail (post-pilot MRP),4999,2605,0.521104,Backed by sharper 2026 pain data (66% of pre-2023 owners report >10% mileage loss); still ~40-50% below a full PTFE/Viton retrofit + years of additive spend.
-Premium (device + pro install + 1yr cartridge pack),5999,3605,0.600933,"Bundles desiccant + filter cartridge refill pack and doorstep install - for buyers who convert best on convenience, per survey payment-mode split."
